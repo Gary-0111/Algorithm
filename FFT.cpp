@@ -1,6 +1,7 @@
 //Problem: UVA - 12633
 //Reference: 1. Introduction to Algorithm ch.30
 //           2. 叉姐的FFT讲义
+//           3. http://blog.csdn.net/u013368721/article/details/45367249
 
 #include<iostream>
 #include<cstdio>
