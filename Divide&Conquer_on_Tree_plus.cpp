@@ -1,3 +1,6 @@
+// Problem: SPOJ - FTOUR2
+// Reference: qzc.IOI2009 中国国家集训队论文
+
 #include <iostream>
 #include <cstdio>
 #include <cmath>
