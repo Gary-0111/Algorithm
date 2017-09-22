@@ -1,3 +1,6 @@
+// Problem: ZOJ - 1492
+// Reference: 红书 P104
+
 #include <cstdio>
 #include <queue>
 #include <cstring>
